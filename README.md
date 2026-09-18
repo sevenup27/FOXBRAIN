@@ -1,5 +1,7 @@
 FOXBRAIN
 
+https://foxbrain.site/
+
 <img width="1889" height="904" alt="image" src="https://github.com/user-attachments/assets/5006a37e-6602-4ad9-8ae7-704343faf9e1" />
 
 
