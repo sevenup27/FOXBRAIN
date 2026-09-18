@@ -1,4 +1,5 @@
 # FOXBRAIN
+![Uploading image.png…]()
 
 [FOXBRAIN](https://foxbrain.live) is an experimental market observation terminal for Solana and Robinhood Chain, built around a fox-inspired interface and a transparent rule-based signal engine.
 
