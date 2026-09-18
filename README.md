@@ -1,7 +1,8 @@
-# FOXBRAIN
-![Uploading image.png…]()
+FOXBRAIN
+<img width="1889" height="904" alt="image" src="https://github.com/user-attachments/assets/5006a37e-6602-4ad9-8ae7-704343faf9e1" />
 
-[FOXBRAIN](https://foxbrain.live) is an experimental market observation terminal for Solana and Robinhood Chain, built around a fox-inspired interface and a transparent rule-based signal engine.
+
+[FOXBRAIN] is an experimental market observation terminal for Solana and Robinhood Chain, built around a fox-inspired interface and a transparent rule-based signal engine.
 
 **Version 0.1 — local visual prototype with a working observation loop.**
 
