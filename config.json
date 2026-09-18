@@ -1,0 +1,22 @@
+{
+  "project": "FOXBRAIN",
+  "version": "0.1",
+  "markets": {
+    "Solana": {
+      "provider": "dexscreener",
+      "chain_id": "solana",
+      "pair_address": ""
+    },
+    "Robinhood Chain": {
+      "provider": "dexscreener",
+      "chain_id": "robinhood",
+      "pair_address": ""
+    }
+  },
+  "signal": {
+    "fast_window": 5,
+    "slow_window": 20,
+    "threshold": 0.003
+  },
+  "poll_seconds": 30
+}
